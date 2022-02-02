@@ -9,7 +9,7 @@
 - link to the App's video on youtube: https://youtu.be/J_h2WUWCQFc
 ### VERSION 2 (branch: version1) 
 - Using the intermediate JS logic
-### VERSION 2 (branch: version3) 
+### VERSION 3 (branch: version3) 
 - Using the advanced JS logic
 
 ## TECH STACKS:
