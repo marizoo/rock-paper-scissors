@@ -1,12 +1,12 @@
 
 ## DESCRIPTION:
 - A Rock-Paper-Scissor game app.
-- [Youtube Video of this App](https://youtu.be/J_h2WUWCQFc)
+<!-- - [Youtube Video of this App](https://xoxo) -->
 
 ## OUTCOME:
 ### VERSION 1 (branch: main)
 - Using the simplest JS logic
-- link to the App's video on youtube: https://youtu.be/J_h2WUWCQFc
+<!-- - link to the App's video on youtube: https://xoxo -->
 ### VERSION 2 (branch: version1) 
 - Using the intermediate JS logic
 ### VERSION 3 (branch: version3) 
